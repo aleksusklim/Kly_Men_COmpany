@@ -1,0 +1,42 @@
+[submodule "Spyro/SpyroTAS"]
+	path = Spyro/SpyroTAS
+	url = https://github.com/aleksusklim/SpyroTAS.git
+[submodule "Misc/aleksusklim.github.io"]
+	path = Misc/aleksusklim.github.io
+	url = https://github.com/aleksusklim/aleksusklim.github.io.git
+[submodule "Gallery/Poetry"]
+	path = Gallery/Poetry
+	url = https://github.com/aleksusklim/Poetry.git
+[submodule "Delphi/thebatparser"]
+	path = Delphi/thebatparser
+	url = https://github.com/aleksusklim/thebatparser.git
+[submodule "GML/CLGv1"]
+	path = GML/CLGv1
+	url = https://github.com/aleksusklim/CLGv1.git
+[submodule "Cpp/nulzip"]
+	path = Cpp/nulzip
+	url = https://github.com/aleksusklim/nulzip.git
+[submodule "Spyro/yaspyrot"]
+	path = Spyro/yaspyrot
+	url = https://github.com/aleksusklim/yaspyrot.git
+[submodule "Javascript/ucoz-parser"]
+	path = Javascript/ucoz-parser
+	url = https://github.com/aleksusklim/ucoz-parser.git
+[submodule "Javascript/smbhget"]
+	path = Javascript/smbhget
+	url = https://github.com/aleksusklim/smbhget.git
+[submodule "GML/beatmark"]
+	path = GML/beatmark
+	url = https://github.com/aleksusklim/beatmark.git
+[submodule "Delphi/lanminitor"]
+	path = Delphi/lanmonitor
+	url = https://github.com/aleksusklim/lanmonitor.git
+[submodule "Javascript/VkMsgExport"]
+	path = Javascript/VkMsgExport
+	url = https://github.com/aleksusklim/VkMsgExport.git
+[submodule "GML/customloop"]
+	path = GML/customloop
+	url = https://github.com/aleksusklim/customloop.git
+[submodule "Javascript/ytalert"]
+	path = Javascript/ytalert
+	url = https://github.com/aleksusklim/ytalert.git
