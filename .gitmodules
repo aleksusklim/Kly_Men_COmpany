@@ -52,3 +52,6 @@
 [submodule "Spyro/SpyroHackingLib"]
 	path = Spyro/SpyroHackingLib
 	url = ssh://git@github.com/aleksusklim/SpyroHackingLib.git
+[submodule "GML/mp3play"]
+	path = GML/mp3play
+	url = ssh://git@github.com/aleksusklim/mp3play.git

@@ -9,6 +9,7 @@ For more info, see the [global index](https://github.com/aleksusklim/Kly_Men_COm
 - [beatmark](https://github.com/aleksusklim/beatmark "Kly_Men_COmpany/GML/beatmark/")
 - [CLGv1](https://github.com/aleksusklim/CLGv1 "Kly_Men_COmpany/GML/CLGv1/")
 - [customloop](https://github.com/aleksusklim/customloop "Kly_Men_COmpany/GML/customloop/")
+- [mp3play](https://github.com/aleksusklim/mp3play "Kly_Men_COmpany/GML/mp3play/")
 
 ---
 
