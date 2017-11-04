@@ -46,3 +46,6 @@
 [submodule "Javascript/save-telegram-stickers-bot"]
 	path = Javascript/save-telegram-stickers-bot
 	url = ssh://git@github.com/aleksusklim/save-telegram-stickers-bot.git
+[submodule "Delphi/githubprojectinfo"]
+	path = Delphi/githubprojectinfo
+	url = ssh://git@github.com/aleksusklim/githubprojectinfo.git
