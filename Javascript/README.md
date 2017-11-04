@@ -6,6 +6,7 @@ For more info, see the [global index](https://github.com/aleksusklim/Kly_Men_COm
 
 ## Projects:
 
+- [save-telegram-stickers-bot](https://github.com/aleksusklim/save-telegram-stickers-bot "Kly_Men_COmpany/Javascript/save-telegram-stickers-bot/")
 - [smbhget](https://github.com/aleksusklim/smbhget "Kly_Men_COmpany/Javascript/smbhget/")
 - [ucoz-parser](https://github.com/aleksusklim/ucoz-parser "Kly_Men_COmpany/Javascript/ucoz-parser/")
 - [VkMsgExport](https://github.com/aleksusklim/VkMsgExport "Kly_Men_COmpany/Javascript/VkMsgExport/")

@@ -43,3 +43,6 @@
 [submodule "Delphi/midilib"]
 	path = Delphi/midilib
 	url = ssh://git@github.com/aleksusklim/midilib.git
+[submodule "Javascript/save-telegram-stickers-bot"]
+	path = Javascript/save-telegram-stickers-bot
+	url = ssh://git@github.com/aleksusklim/save-telegram-stickers-bot.git

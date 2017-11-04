@@ -16,7 +16,7 @@ _Do not clone or download this root project_, refer to a specific one instead.
 - [Delphi](./Delphi/ "Kly_Men_COmpany/Delphi/") (3 proj.)
 - [Gallery](./Gallery/ "Kly_Men_COmpany/Gallery/") (1 proj.)
 - [GML](./GML/ "Kly_Men_COmpany/GML/") (3 proj.)
-- [Javascript](./Javascript/ "Kly_Men_COmpany/Javascript/") (4 proj.)
+- [Javascript](./Javascript/ "Kly_Men_COmpany/Javascript/") (5 proj.)
 - [Misc](./Misc/ "Kly_Men_COmpany/Misc/") (1 proj.)
 - [Spyro](./Spyro/ "Kly_Men_COmpany/Spyro/") (2 proj.)
 
