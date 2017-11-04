@@ -40,3 +40,6 @@
 [submodule "Javascript/ytalert"]
 	path = Javascript/ytalert
 	url = https://github.com/aleksusklim/ytalert.git
+[submodule "Delphi/midilib"]
+	path = Delphi/midilib
+	url = ssh://git@github.com/aleksusklim/midilib.git
