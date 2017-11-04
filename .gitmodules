@@ -49,3 +49,6 @@
 [submodule "Delphi/githubprojectinfo"]
 	path = Delphi/githubprojectinfo
 	url = ssh://git@github.com/aleksusklim/githubprojectinfo.git
+[submodule "Spyro/SpyroHackingLib"]
+	path = Spyro/SpyroHackingLib
+	url = ssh://git@github.com/aleksusklim/SpyroHackingLib.git
