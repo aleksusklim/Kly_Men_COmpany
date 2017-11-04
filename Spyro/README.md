@@ -6,6 +6,7 @@ For more info, see the [global index](https://github.com/aleksusklim/Kly_Men_COm
 
 ## Projects:
 
+- [SpyroHackingLib](https://github.com/aleksusklim/SpyroHackingLib "Kly_Men_COmpany/Spyro/SpyroHackingLib/")
 - [SpyroTAS](https://github.com/aleksusklim/SpyroTAS "Kly_Men_COmpany/Spyro/SpyroTAS/")
 - [yaspyrot](https://github.com/aleksusklim/yaspyrot "Kly_Men_COmpany/Spyro/yaspyrot/")
 
