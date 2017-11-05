@@ -82,3 +82,6 @@
 [submodule "Games/chopduel"]
 	path = Games/chopduel
 	url = ssh://git@github.com/aleksusklim/chopduel.git
+[submodule "Misc/vote"]
+	path = Misc/vote
+	url = ssh://git@github.com/aleksusklim/vote.git
