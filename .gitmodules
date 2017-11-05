@@ -85,3 +85,6 @@
 [submodule "Misc/vote"]
 	path = Misc/vote
 	url = ssh://git@github.com/aleksusklim/vote.git
+[submodule "Gallery/Znaczky"]
+	path = Gallery/Znaczky
+	url = ssh://git@github.com/aleksusklim/Znaczky.git
