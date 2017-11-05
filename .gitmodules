@@ -58,3 +58,6 @@
 [submodule "Delphi/quadtree"]
 	path = Delphi/quadtree
 	url = ssh://git@github.com/aleksusklim/quadtree.git
+[submodule "Games/sharpgame"]
+	path = Games/sharpgame
+	url = ssh://git@github.com/aleksusklim/sharpgame.git
