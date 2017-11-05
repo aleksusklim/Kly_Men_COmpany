@@ -55,3 +55,6 @@
 [submodule "GML/mp3play"]
 	path = GML/mp3play
 	url = ssh://git@github.com/aleksusklim/mp3play.git
+[submodule "Delphi/quadtree"]
+	path = Delphi/quadtree
+	url = ssh://git@github.com/aleksusklim/quadtree.git
