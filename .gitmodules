@@ -61,3 +61,24 @@
 [submodule "Games/sharpgame"]
 	path = Games/sharpgame
 	url = ssh://git@github.com/aleksusklim/sharpgame.git
+[submodule "Games/fmah"]
+	path = Games/fmah
+	url = ssh://git@github.com/aleksusklim/fmah.git
+[submodule "Games/ciw"]
+	path = Games/ciw
+	url = ssh://git@github.com/aleksusklim/ciw.git
+[submodule "Games/TunnelFlyer"]
+	path = Games/TunnelFlyer
+	url = ssh://git@github.com/aleksusklim/TunnelFlyer.git
+[submodule "Games/TunnelDriver"]
+	path = Games/TunnelDriver
+	url = ssh://git@github.com/aleksusklim/TunnelDriver.git
+[submodule "Games/Fountains"]
+	path = Games/Fountains
+	url = ssh://git@github.com/aleksusklim/Fountains.git
+[submodule "Games/FoxPing"]
+	path = Games/FoxPing
+	url = ssh://git@github.com/aleksusklim/FoxPing.git
+[submodule "Games/chopduel"]
+	path = Games/chopduel
+	url = ssh://git@github.com/aleksusklim/chopduel.git
