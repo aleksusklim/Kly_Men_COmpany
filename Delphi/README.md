@@ -9,6 +9,7 @@ For more info, see the [global index](https://github.com/aleksusklim/Kly_Men_COm
 - [githubprojectinfo](https://github.com/aleksusklim/githubprojectinfo "Kly_Men_COmpany/Delphi/githubprojectinfo/")
 - [lanmonitor](https://github.com/aleksusklim/lanmonitor "Kly_Men_COmpany/Delphi/lanmonitor/")
 - [midilib](https://github.com/aleksusklim/midilib "Kly_Men_COmpany/Delphi/midilib/")
+- [quadtree](https://github.com/aleksusklim/quadtree "Kly_Men_COmpany/Delphi/quadtree/")
 - [thebatparser](https://github.com/aleksusklim/thebatparser "Kly_Men_COmpany/Delphi/thebatparser/")
 
 ---

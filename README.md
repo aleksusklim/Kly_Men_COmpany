@@ -13,7 +13,7 @@ _Do not clone or download this root project_, refer to a specific one instead.
 ## Categories:
 
 - [Cpp](./Cpp/ "Kly_Men_COmpany/Cpp/") (1 proj.)
-- [Delphi](./Delphi/ "Kly_Men_COmpany/Delphi/") (4 proj.)
+- [Delphi](./Delphi/ "Kly_Men_COmpany/Delphi/") (5 proj.)
 - [Gallery](./Gallery/ "Kly_Men_COmpany/Gallery/") (1 proj.)
 - [GML](./GML/ "Kly_Men_COmpany/GML/") (4 proj.)
 - [Javascript](./Javascript/ "Kly_Men_COmpany/Javascript/") (5 proj.)
