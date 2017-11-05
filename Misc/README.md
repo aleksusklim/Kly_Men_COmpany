@@ -7,6 +7,7 @@ For more info, see the [global index](https://github.com/aleksusklim/Kly_Men_COm
 ## Projects:
 
 - [aleksusklim.github.io](https://github.com/aleksusklim/aleksusklim.github.io "Kly_Men_COmpany/Misc/aleksusklim.github.io/")
+- [vote](https://github.com/aleksusklim/vote "Kly_Men_COmpany/Misc/vote/")
 
 ---
 

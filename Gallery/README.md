@@ -7,6 +7,7 @@ For more info, see the [global index](https://github.com/aleksusklim/Kly_Men_COm
 ## Projects:
 
 - [Poetry](https://github.com/aleksusklim/Poetry "Kly_Men_COmpany/Gallery/Poetry/")
+- [Znaczky](https://github.com/aleksusklim/Znaczky "Kly_Men_COmpany/Gallery/Znaczky/")
 
 ---
 
