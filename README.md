@@ -15,7 +15,7 @@ _Do not clone or download this root project_, refer to a specific one instead.
 - [Cpp](./Cpp/ "Kly_Men_COmpany/Cpp/") (1 proj.)
 - [Delphi](./Delphi/ "Kly_Men_COmpany/Delphi/") (5 proj.)
 - [Gallery](./Gallery/ "Kly_Men_COmpany/Gallery/") (1 proj.)
-- [Games](./Games/ "Kly_Men_COmpany/Games/") (1 proj.)
+- [Games](./Games/ "Kly_Men_COmpany/Games/") (8 proj.)
 - [GML](./GML/ "Kly_Men_COmpany/GML/") (4 proj.)
 - [Javascript](./Javascript/ "Kly_Men_COmpany/Javascript/") (5 proj.)
 - [Misc](./Misc/ "Kly_Men_COmpany/Misc/") (1 proj.)
