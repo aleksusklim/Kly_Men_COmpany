@@ -6,7 +6,7 @@ For more info, see the [global index](https://github.com/aleksusklim/Kly_Men_COm
 
 ## Projects:
 
-- [chopduel](https://github.com/aleksusklim/chopduel "Kly_Men_COmpany/Games/chopduel/")
+- [ChopDuels](https://github.com/aleksusklim/ChopDuels "Kly_Men_COmpany/Games/ChopDuels/")
 - [CIW](https://github.com/aleksusklim/CIW "Kly_Men_COmpany/Games/CIW/")
 - [Dash](https://github.com/aleksusklim/Dash "Kly_Men_COmpany/Games/Dash/")
 - [External12](https://github.com/aleksusklim/External12 "Kly_Men_COmpany/Games/External12/")
