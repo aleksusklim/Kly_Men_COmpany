@@ -42,76 +42,76 @@
 	url = https://github.com/aleksusklim/ytalert.git
 [submodule "Delphi/midilib"]
 	path = Delphi/midilib
-	url = ssh://git@github.com/aleksusklim/midilib.git
+	url = https://github.com/aleksusklim/midilib.git
 [submodule "Javascript/save-telegram-stickers-bot"]
 	path = Javascript/save-telegram-stickers-bot
-	url = ssh://git@github.com/aleksusklim/save-telegram-stickers-bot.git
+	url = https://github.com/aleksusklim/save-telegram-stickers-bot.git
 [submodule "Delphi/githubprojectinfo"]
 	path = Delphi/githubprojectinfo
-	url = ssh://git@github.com/aleksusklim/githubprojectinfo.git
+	url = https://github.com/aleksusklim/githubprojectinfo.git
 [submodule "Spyro/SpyroHackingLib"]
 	path = Spyro/SpyroHackingLib
-	url = ssh://git@github.com/aleksusklim/SpyroHackingLib.git
+	url = https://github.com/aleksusklim/SpyroHackingLib.git
 [submodule "GML/mp3play"]
 	path = GML/mp3play
-	url = ssh://git@github.com/aleksusklim/mp3play.git
+	url = https://github.com/aleksusklim/mp3play.git
 [submodule "Delphi/quadtree"]
 	path = Delphi/quadtree
-	url = ssh://git@github.com/aleksusklim/quadtree.git
+	url = https://github.com/aleksusklim/quadtree.git
 [submodule "Games/TunnelFlyer"]
 	path = Games/TunnelFlyer
-	url = ssh://git@github.com/aleksusklim/TunnelFlyer.git
+	url = https://github.com/aleksusklim/TunnelFlyer.git
 [submodule "Games/TunnelDriver"]
 	path = Games/TunnelDriver
-	url = ssh://git@github.com/aleksusklim/TunnelDriver.git
+	url = https://github.com/aleksusklim/TunnelDriver.git
 [submodule "Games/Fountains"]
 	path = Games/Fountains
-	url = ssh://git@github.com/aleksusklim/Fountains.git
+	url = https://github.com/aleksusklim/Fountains.git
 [submodule "Games/FoxPing"]
 	path = Games/FoxPing
-	url = ssh://git@github.com/aleksusklim/FoxPing.git
+	url = https://github.com/aleksusklim/FoxPing.git
 [submodule "Games/chopduel"]
 	path = Games/chopduel
-	url = ssh://git@github.com/aleksusklim/chopduel.git
+	url = https://github.com/aleksusklim/chopduel.git
 [submodule "Misc/vote"]
 	path = Misc/vote
-	url = ssh://git@github.com/aleksusklim/vote.git
+	url = https://github.com/aleksusklim/vote.git
 [submodule "Gallery/Znaczky"]
 	path = Gallery/Znaczky
-	url = ssh://git@github.com/aleksusklim/Znaczky.git
+	url = https://github.com/aleksusklim/Znaczky.git
 [submodule "Games/Dash"]
 	path = Games/Dash
-	url = ssh://git@github.com/aleksusklim/Dash.git
+	url = https://github.com/aleksusklim/Dash.git
 [submodule "Games/External12"]
 	path = Games/External12
-	url = ssh://git@github.com/aleksusklim/External12.git
+	url = https://github.com/aleksusklim/External12.git
 [submodule "Games/GmlRobot"]
 	path = Games/GmlRobot
-	url = ssh://git@github.com/aleksusklim/GmlRobot.git
+	url = https://github.com/aleksusklim/GmlRobot.git
 [submodule "Games/KeyAndKey"]
 	path = Games/KeyAndKey
-	url = ssh://git@github.com/aleksusklim/KeyAndKey.git
+	url = https://github.com/aleksusklim/KeyAndKey.git
 [submodule "Games/LightsOnCube"]
 	path = Games/LightsOnCube
-	url = ssh://git@github.com/aleksusklim/LightsOnCube.git
+	url = https://github.com/aleksusklim/LightsOnCube.git
 [submodule "Games/ScullMult"]
 	path = Games/ScullMult
-	url = ssh://git@github.com/aleksusklim/ScullMult.git
+	url = https://github.com/aleksusklim/ScullMult.git
 [submodule "Games/SpyroRunner"]
 	path = Games/SpyroRunner
-	url = ssh://git@github.com/aleksusklim/SpyroRunner.git
+	url = https://github.com/aleksusklim/SpyroRunner.git
 [submodule "Games/WaterTower"]
 	path = Games/WaterTower
-	url = ssh://git@github.com/aleksusklim/WaterTower.git
+	url = https://github.com/aleksusklim/WaterTower.git
 [submodule "Games/CIW"]
 	path = Games/CIW
-	url = ssh://git@github.com/aleksusklim/CIW.git
+	url = https://github.com/aleksusklim/CIW.git
 [submodule "Games/Fmah"]
 	path = Games/Fmah
-	url = ssh://git@github.com/aleksusklim/Fmah.git
+	url = https://github.com/aleksusklim/Fmah.git
 [submodule "Games/SharpGame"]
 	path = Games/SharpGame
-	url = ssh://git@github.com/aleksusklim/SharpGame.git
+	url = https://github.com/aleksusklim/SharpGame.git
 [submodule "Games/ChopDuels"]
 	path = Games/ChopDuels
-	url = ssh://git@github.com/aleksusklim/ChopDuels.git
+	url = https://github.com/aleksusklim/ChopDuels.git
