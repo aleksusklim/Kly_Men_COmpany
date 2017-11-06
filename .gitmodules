@@ -88,3 +88,27 @@
 [submodule "Gallery/Znaczky"]
 	path = Gallery/Znaczky
 	url = ssh://git@github.com/aleksusklim/Znaczky.git
+[submodule "Games/Dash"]
+	path = Games/Dash
+	url = ssh://git@github.com/aleksusklim/Dash.git
+[submodule "Games/External12"]
+	path = Games/External12
+	url = ssh://git@github.com/aleksusklim/External12.git
+[submodule "Games/GmlRobot"]
+	path = Games/GmlRobot
+	url = ssh://git@github.com/aleksusklim/GmlRobot.git
+[submodule "Games/KeyAndKey"]
+	path = Games/KeyAndKey
+	url = ssh://git@github.com/aleksusklim/KeyAndKey.git
+[submodule "Games/LightsOnCube"]
+	path = Games/LightsOnCube
+	url = ssh://git@github.com/aleksusklim/LightsOnCube.git
+[submodule "Games/ScullMult"]
+	path = Games/ScullMult
+	url = ssh://git@github.com/aleksusklim/ScullMult.git
+[submodule "Games/SpyroRunner"]
+	path = Games/SpyroRunner
+	url = ssh://git@github.com/aleksusklim/SpyroRunner.git
+[submodule "Games/WaterTower"]
+	path = Games/WaterTower
+	url = ssh://git@github.com/aleksusklim/WaterTower.git
