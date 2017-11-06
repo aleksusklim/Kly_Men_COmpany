@@ -112,3 +112,6 @@
 [submodule "Games/SharpGame"]
 	path = Games/SharpGame
 	url = ssh://git@github.com/aleksusklim/SharpGame.git
+[submodule "Games/ChopDuels"]
+	path = Games/ChopDuels
+	url = ssh://git@github.com/aleksusklim/ChopDuels.git
