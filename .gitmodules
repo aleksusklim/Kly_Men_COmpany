@@ -61,9 +61,6 @@
 [submodule "Games/sharpgame"]
 	path = Games/sharpgame
 	url = ssh://git@github.com/aleksusklim/sharpgame.git
-[submodule "Games/fmah"]
-	path = Games/fmah
-	url = ssh://git@github.com/aleksusklim/fmah.git
 [submodule "Games/TunnelFlyer"]
 	path = Games/TunnelFlyer
 	url = ssh://git@github.com/aleksusklim/TunnelFlyer.git
@@ -112,3 +109,6 @@
 [submodule "Games/CIW"]
 	path = Games/CIW
 	url = ssh://git@github.com/aleksusklim/CIW.git
+[submodule "Games/Fmah"]
+	path = Games/Fmah
+	url = ssh://git@github.com/aleksusklim/Fmah.git
