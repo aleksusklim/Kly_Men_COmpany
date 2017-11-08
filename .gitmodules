@@ -115,3 +115,27 @@
 [submodule "Games/ChopDuels"]
 	path = Games/ChopDuels
 	url = https://github.com/aleksusklim/ChopDuels.git
+[submodule "Javascript/ass_cmp"]
+	path = Javascript/ass_cmp
+	url = ssh://git@github.com/aleksusklim/ass_cmp.git
+[submodule "Javascript/highlight_compare"]
+	path = Javascript/highlight_compare
+	url = ssh://git@github.com/aleksusklim/highlight_compare.git
+[submodule "Javascript/img_link"]
+	path = Javascript/img_link
+	url = ssh://git@github.com/aleksusklim/img_link.git
+[submodule "Javascript/mlp_parser"]
+	path = Javascript/mlp_parser
+	url = ssh://git@github.com/aleksusklim/mlp_parser.git
+[submodule "Javascript/rand_ojegov"]
+	path = Javascript/rand_ojegov
+	url = ssh://git@github.com/aleksusklim/rand_ojegov.git
+[submodule "Javascript/owl_parser"]
+	path = Javascript/owl_parser
+	url = ssh://git@github.com/aleksusklim/owl_parser.git
+[submodule "Javascript/subnet_calc"]
+	path = Javascript/subnet_calc
+	url = ssh://git@github.com/aleksusklim/subnet_calc.git
+[submodule "Javascript/tdtpad_extension"]
+	path = Javascript/tdtpad_extension
+	url = ssh://git@github.com/aleksusklim/tdtpad_extension.git
