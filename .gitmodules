@@ -139,3 +139,24 @@
 [submodule "Javascript/tdtpad_extension"]
 	path = Javascript/tdtpad_extension
 	url = ssh://git@github.com/aleksusklim/tdtpad_extension.git
+[submodule "GML/RainbowPiano"]
+	path = GML/RainbowPiano
+	url = ssh://git@github.com/aleksusklim/RainbowPiano.git
+[submodule "GML/JapMaker"]
+	path = GML/JapMaker
+	url = ssh://git@github.com/aleksusklim/JapMaker.git
+[submodule "GML/combine2tracks"]
+	path = GML/combine2tracks
+	url = ssh://git@github.com/aleksusklim/combine2tracks.git
+[submodule "GML/ComplexView"]
+	path = GML/ComplexView
+	url = ssh://git@github.com/aleksusklim/ComplexView.git
+[submodule "GML/CrossJumble"]
+	path = GML/CrossJumble
+	url = ssh://git@github.com/aleksusklim/CrossJumble.git
+[submodule "GML/McpSpace"]
+	path = GML/McpSpace
+	url = ssh://git@github.com/aleksusklim/McpSpace.git
+[submodule "GML/TileExpander"]
+	path = GML/TileExpander
+	url = ssh://git@github.com/aleksusklim/TileExpander.git
