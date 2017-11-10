@@ -160,3 +160,24 @@
 [submodule "GML/TileExpander"]
 	path = GML/TileExpander
 	url = ssh://git@github.com/aleksusklim/TileExpander.git
+[submodule "Games/BallEqual"]
+	path = Games/BallEqual
+	url = ssh://git@github.com/aleksusklim/BallEqual.git
+[submodule "Games/DarkExit"]
+	path = Games/DarkExit
+	url = ssh://git@github.com/aleksusklim/DarkExit.git
+[submodule "Games/FlyingThing"]
+	path = Games/FlyingThing
+	url = ssh://git@github.com/aleksusklim/FlyingThing.git
+[submodule "Games/IndieHorror"]
+	path = Games/IndieHorror
+	url = ssh://git@github.com/aleksusklim/IndieHorror.git
+[submodule "Games/LinearReactor"]
+	path = Games/LinearReactor
+	url = ssh://git@github.com/aleksusklim/LinearReactor.git
+[submodule "Games/PacmanDossier"]
+	path = Games/PacmanDossier
+	url = ssh://git@github.com/aleksusklim/PacmanDossier.git
+[submodule "Games/RandomBalls"]
+	path = Games/RandomBalls
+	url = ssh://git@github.com/aleksusklim/RandomBalls.git
