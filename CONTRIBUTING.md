@@ -1,5 +1,3 @@
-# [Kly_Men_COmpany][]/[CONTRIBUTING][]:
-
 ## Rules
 
 I don't accept any pull requests or code merging with something else.
@@ -14,11 +12,6 @@ All my work is always licensed under WTFPL - public domain, no attribution requi
 
 ### Note
 
-From time to time I will recreate my projects, destroying old commit history. But all releases will stay archived on external sites. Don't worry, current live code version will be still there in repos.
+From time to time, I will recreate my projects, destroying old commit history. But all releases will stay archived on external sites. Don't worry, current live code version will be still there in repos.
 
----
-
-_[Back][Kly_Men_COmpany]_
-
-[Kly_Men_COmpany]: https://github.com/aleksusklim/Kly_Men_COmpany "Kly_Men_COmpany"
-[CONTRIBUTING]: https://github.com/aleksusklim/Kly_Men_COmpany/blob/master/CONTRIBUTING.md "CONTRIBUTING"
+Thus, do not link directly to any file inside a repository, nor to any particular commit or tag. Instead, copy anything you need and track it yourself.
