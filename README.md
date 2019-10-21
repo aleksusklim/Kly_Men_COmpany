@@ -36,6 +36,22 @@ Read more in [CONTRIBUTING](./CONTRIBUTING.md "CONTRIBUTING.md").
 - [PictureCoder](https://github.com/aleksusklim/PictureCoder "GitHub: aleksusklim/PictureCoder")
 - [SmbhGet](https://github.com/aleksusklim/SmbhGet "GitHub: aleksusklim/SmbhGet")
 - [SiteIndex](https://github.com/aleksusklim/SiteIndex "GitHub: aleksusklim/SiteIndex")
+- [VkMsgExport](https://github.com/aleksusklim/VkMsgExport "GitHub: aleksusklim/VkMsgExport")
+- [LanMonitor](https://github.com/aleksusklim/LanMonitor "GitHub: aleksusklim/LanMonitor")
+- [TheBatParser](https://github.com/aleksusklim/TheBatParser "GitHub: aleksusklim/TheBatParser")
+- [UniqueStrings](https://github.com/aleksusklim/UniqueStrings "GitHub: aleksusklim/UniqueStrings")
+- [CrossJumble](https://github.com/aleksusklim/CrossJumble "GitHub: aleksusklim/CrossJumble")
+- [JapMaker](https://github.com/aleksusklim/JapMaker "GitHub: aleksusklim/JapMaker")
+- [SincCharMake](https://github.com/aleksusklim/SincCharMake "GitHub: aleksusklim/SincCharMake")
+- [WinEnable](https://github.com/aleksusklim/WinEnable "GitHub: aleksusklim/WinEnable")
+- [VideoCounter](https://github.com/aleksusklim/VideoCounter "GitHub: aleksusklim/VideoCounter")
+- [AnswerMD5](https://github.com/aleksusklim/AnswerMD5 "GitHub: aleksusklim/AnswerMD5")
+- [DuckProxy](https://github.com/aleksusklim/DuckProxy "GitHub: aleksusklim/DuckProxy")
+- [RandOjegov](https://github.com/aleksusklim/RandOjegov "GitHub: aleksusklim/RandOjegov")
+- [CombineTwoTracks](https://github.com/aleksusklim/CombineTwoTracks "GitHub: aleksusklim/CombineTwoTracks")
+- [YtAlert](https://github.com/aleksusklim/YtAlert "GitHub: aleksusklim/YtAlert")
+- [ClipSend](https://github.com/aleksusklim/ClipSend "GitHub: aleksusklim/ClipSend")
+- [McpSpace](https://github.com/aleksusklim/McpSpace "GitHub: aleksusklim/McpSpace")
 
 # THIS PAGE IS UNDER RECONSTRUCTION!
 
@@ -48,24 +64,18 @@ Read more in [CONTRIBUTING](./CONTRIBUTING.md "CONTRIBUTING.md").
 ## Delphi
 
 - [githubprojectinfo](https://github.com/aleksusklim/githubprojectinfo "GitHub: aleksusklim/githubprojectinfo")
-- [lanmonitor](https://github.com/aleksusklim/lanmonitor "GitHub: aleksusklim/lanmonitor")
 - [midilib](https://github.com/aleksusklim/midilib "GitHub: aleksusklim/midilib")
 - [quadtree](https://github.com/aleksusklim/quadtree "GitHub: aleksusklim/quadtree")
-- [thebatparser](https://github.com/aleksusklim/thebatparser "GitHub: aleksusklim/thebatparser")
 
 ## Javascript
 
 - [highlight_compare](https://github.com/aleksusklim/highlight_compare "GitHub: aleksusklim/highlight_compare")
-- [img_link](https://github.com/aleksusklim/img_link "GitHub: aleksusklim/img_link")
 - [mlp_parser](https://github.com/aleksusklim/mlp_parser "GitHub: aleksusklim/mlp_parser")
 - [owl_parser](https://github.com/aleksusklim/owl_parser "GitHub: aleksusklim/owl_parser")
-- [rand_ojegov](https://github.com/aleksusklim/rand_ojegov "GitHub: aleksusklim/rand_ojegov")
 - [save-telegram-stickers-bot](https://github.com/aleksusklim/save-telegram-stickers-bot "GitHub: aleksusklim/save-telegram-stickers-bot")
 - [subnet_calc](https://github.com/aleksusklim/subnet_calc "GitHub: aleksusklim/subnet_calc")
 - [tdtpad_extension](https://github.com/aleksusklim/tdtpad_extension "GitHub: aleksusklim/tdtpad_extension")
 - [ucoz-parser](https://github.com/aleksusklim/ucoz-parser "GitHub: aleksusklim/ucoz-parser")
-- [VkMsgExport](https://github.com/aleksusklim/VkMsgExport "GitHub: aleksusklim/VkMsgExport")
-- [ytalert](https://github.com/aleksusklim/ytalert "GitHub: aleksusklim/ytalert")
 
 ## Cpp
 
@@ -74,11 +84,7 @@ Read more in [CONTRIBUTING](./CONTRIBUTING.md "CONTRIBUTING.md").
 ## GML
 
 - [beatmark](https://github.com/aleksusklim/beatmark "GitHub: aleksusklim/beatmark")
-- [combine2tracks](https://github.com/aleksusklim/combine2tracks "GitHub: aleksusklim/combine2tracks")
-- [CrossJumble](https://github.com/aleksusklim/CrossJumble "GitHub: aleksusklim/CrossJumble")
 - [customloop](https://github.com/aleksusklim/customloop "GitHub: aleksusklim/customloop")
-- [JapMaker](https://github.com/aleksusklim/JapMaker "GitHub: aleksusklim/JapMaker")
-- [McpSpace](https://github.com/aleksusklim/McpSpace "GitHub: aleksusklim/McpSpace")
 - [mp3play](https://github.com/aleksusklim/mp3play "GitHub: aleksusklim/mp3play")
 - [RainbowPiano](https://github.com/aleksusklim/RainbowPiano "GitHub: aleksusklim/RainbowPiano")
 - [TileExpander](https://github.com/aleksusklim/TileExpander "GitHub: aleksusklim/TileExpander")
@@ -109,10 +115,5 @@ Read more in [CONTRIBUTING](./CONTRIBUTING.md "CONTRIBUTING.md").
 
 - [aleksusklim.github.io](https://github.com/aleksusklim/aleksusklim.github.io "GitHub: aleksusklim/aleksusklim.github.io")
 - [vote](https://github.com/aleksusklim/vote "GitHub: aleksusklim/vote")
-
-## Delete
-
-- [CIW](https://github.com/aleksusklim/CIW "GitHub: aleksusklim/CIW")
-- [ass_cmp](https://github.com/aleksusklim/ass_cmp "GitHub: aleksusklim/ass_cmp")
 
 ### //EOF
